@@ -59,8 +59,7 @@ def create_table(conn):
 def main():
     conn_args = dict(host="localhost",
                      user="root",
-                     password="123456",
-                     )
+                     password="123456")
     database_name = "test03"
 
     with get_conn(**conn_args) as conn:
