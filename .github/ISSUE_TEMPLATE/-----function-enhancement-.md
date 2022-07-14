@@ -1,6 +1,6 @@
 ---
 name: 功能增强(Function Enhancement)
-about: Suggest an idea for this project
+about: " 帮助我们完善功能(Help us improve functionality)"
 title: "【Function Enhancement】"
 labels: 功能增强(function enhancement)
 assignees: ''

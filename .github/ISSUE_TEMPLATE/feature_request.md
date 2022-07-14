@@ -1,8 +1,8 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: Product requirements
+name: 文档完善(Documentation Improvements)
+about: 提出问题以帮助我们完善文档(Ask questions to help us improve the documentation)
+title: "【Documentation Improvements】"
+labels: 文档改进(Documentation Improvements)
 assignees: ''
 
 ---
